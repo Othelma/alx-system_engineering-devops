@@ -1,2 +1,2 @@
-#!/binbash
-ls -ap *,
+#!/bin/bash
+#ls -mpav
