@@ -8,3 +8,4 @@ task 6 -add execute permission to the owner and the group owner, and read permis
 task 7 -add execution permission to the owner, the group owner and the other users, to the file hello
 task 8 -give all the permissions to only the other users
 task 9 -set the mode of the file hello to 753
+task 10 -set the mode of the file hello the same as olleh’s mode
